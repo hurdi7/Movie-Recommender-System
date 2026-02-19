@@ -14,8 +14,11 @@ The model was built and tested locally, and is ready for deployment.
 </ul>
 
 ## Approach
-1. <b>Preprocessing</b> <br>
-<t><t>
-1. <b>Preprocessing</b> <br>
-1. <b>Preprocessing</b> <br>
-1. <b>Preprocessing</b> <br>
+<ol>
+  <li>Data Preprocessing</li>
+  <li>Feature Engineering</li>
+  <li>Vectorization</li>
+  <li>Similarity Computation</li>
+</ol>
+
+
