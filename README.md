@@ -8,9 +8,9 @@ The model was built and tested locally, and is ready for deployment.
 ## Features
 <ul>
   <li>Recommends top 5 similar movies based on user selection</li>
-  <li>Uses content-based filtering (no user history required)</li>
+  <li>Uses content-based filtering</li>
   <li>Fast similarity computation using vectorization</li>
-  <li>Interactive UI (if you used Streamlit, mention that)</li>
+  <li>Interactive UI using <b>Streamlit</b></li>
 </ul>
 
 ## Approach
