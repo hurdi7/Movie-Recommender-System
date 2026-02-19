@@ -15,15 +15,15 @@ The model was built and tested locally, and is ready for deployment.
 
 ## Approach
 <ol>
-  <li>Data Preprocessing</li>
+  <li><b>Data Preprocessing</b></li>
   <t><ul>
     <li>Merged Datasets</li>
     <li>Removed Null and Duplicated Values</li>
     <li>Selected Relevant Features</li>
   </ul>
-  <li>Feature Engineering</li>
-  <li>Vectorization</li>
-  <li>Similarity Computation</li>
+  <li><b>Feature Engineering</b></li>
+  <li><b>Vectorization</b></li>
+  <li><b>Similarity Computation</b></li>
 </ol>
 
 
