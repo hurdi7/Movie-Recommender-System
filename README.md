@@ -22,8 +22,20 @@ The model was built and tested locally, and is ready for deployment.
     <li>Selected Relevant Features</li>
   </ul>
   <li><b>Feature Engineering</b></li>
+  <t><ul>
+    <li>Converted text data into tags</li>
+    <li>Applied text preprocessing</li>
+  </ul>
   <li><b>Vectorization</b></li>
+  <t><ul>
+    <li>Used <b>CountVectorizer</b> to convert text into numerical vectors</li>
+  </ul>
   <li><b>Similarity Computation</b></li>
+  <t><ul>
+    <li>Applied <b>Cosine Similarity</b> to measure similarity between movies</li>
+    <li>Stored similarity matrix for fast recommendation</li>
+  </ul>
 </ol>
+
 
 
