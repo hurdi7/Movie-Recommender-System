@@ -5,9 +5,9 @@ It recommends movies similar to a selected movie based on features like genre, k
 
 The model was built and tested locally, and is ready for deployment.
 
-##Features
+## Features
 <ul>
-  <li>Recommends top 5 similar movies based on user selection</ul>li>
+  <li>Recommends top 5 similar movies based on user selection</li>
   <li>Uses content-based filtering (no user history required)</li>
   <li>Fast similarity computation using vectorization</li>
   <li>Interactive UI (if you used Streamlit, mention that)</li>
